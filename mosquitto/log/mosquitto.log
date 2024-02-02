@@ -2521,3 +2521,9 @@
 1618943149: New client connected from 192.168.96.1:62414 as auto-5A58CEEA-5006-5044-234D-2D263F8F4ED9 (p2, c1, k60).
 1618943249: Client auto-5A58CEEA-5006-5044-234D-2D263F8F4ED9 disconnected.
 1618947273: mosquitto version 2.0.10 terminating
+1706863698: mosquitto version 2.0.18 starting
+1706863698: Config loaded from /mosquitto/config/mosquitto.conf.
+1706863698: Opening ipv4 listen socket on port 1883.
+1706863698: Opening ipv6 listen socket on port 1883.
+1706863698: mosquitto version 2.0.18 running
+1706866723: mosquitto version 2.0.18 terminating
